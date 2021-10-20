@@ -35,11 +35,10 @@ body {
 }
 .cardlist{
  display:flex;
- justify-content:space-around;
- flex-wrap:wrap;
-  padding:32px;
 
-    
+ flex-wrap:wrap;
+  
+    padding:32px;
 
 }
 
@@ -47,7 +46,11 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  flex:0 1 30%;
-  padding:16px;
+padding:16p;
+margin:16px;
+width:300px;
+ 
+
+
   
 }
