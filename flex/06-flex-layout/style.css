@@ -5,8 +5,10 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
-  display:flex; 
-  flex-direction:column;
+  display:flex;
+  flex-direction:column; 
+  
+  
 }
 
 img {
